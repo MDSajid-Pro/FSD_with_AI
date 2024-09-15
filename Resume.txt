@@ -1,6 +1,6 @@
 Name :- Md Sajid
 College :- Success Degree College
-Course :- Bsc (CBZ)
+Course :- B.Sc (CBZ)
 Skills :- HTML & CSS
 Soft skills :- Good communication
 Projects :- No  
